@@ -1,4 +1,4 @@
-https://dashboard.heroku.com/apps/vikastiwarinetflix/deploy/github
+https://vikastiwarinetflix.herokuapp.com/
 
 # Getting Started with Create React App
 
